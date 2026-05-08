@@ -7,7 +7,7 @@ What this is
 A Python toolkit for processing, classifying, clustering and visualising Copernicus EGMS InSAR ground motion datasets at regional to continental scale (tested up to 300M points, designed to scale to 5B).
 ---
 Pipeline scripts
-Script	Purpose
+Script	Purpose 
 `egms_download.py`	Download EGMS L2b tiles by bounding box via EGMStoolkit
 `egms_to_geoparquet.py`	Convert EGMS CSV/ZIP → split GeoParquet (meta + TS pairs)
 `egms_classify.py`	Physics-informed time series classification (rule + GMM)
