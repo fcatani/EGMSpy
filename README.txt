@@ -1,12 +1,17 @@
-EGMSpy InSAR 
+EGMSpy InSAR time series management and analysis Python pipeline - by Filippo Catani 
 Machine Intelligence and Slope Stability Lab (MISSLab)  
 University of Padova · Department of Geosciences ·
 Version 2026-04
+
+NOTE: for a more detailed reference on methods, algorithms, usage, and results on the demonstrator case, please refer to the following publication:
+
+Catani F., Palmieri C., Todde R., Nava L., Floris M., 2026. EGMSpy: an open-source Python toolkit for scalable data handling, classification, clustering, and visualisation of Copernicus EGMS InSAR data. Submitted to EarthXiv.
+
 ---
 What this is: 
 A Python toolkit for processing, classifying, clustering and visualising Copernicus EGMS InSAR ground motion datasets at regional to continental scale (tested up to 300M points, designed to scale to >1B).
 ---
-Pipeline scripts and Scripts purpose 
+Pipeline scripts and their purpose 
 
 `egms_download.py`	Download EGMS L2b tiles by bounding box via EGMStoolkit (Hrysiewicz et al., 2024)
 `egms_to_geoparquet.py`	Convert EGMS CSV/ZIP → split GeoParquet (meta + TS pairs)
