@@ -1,7 +1,7 @@
-EGMS InSAR Toolkit
+EGMSpy InSAR 
 Machine Intelligence and Slope Stability Lab (MISSLab)  
-University of Padova · Department of Geosciences · F. Catani  
-Version 2026-03
+University of Padova · Department of Geosciences ·
+Version 2026-04
 ---
 What this is
 A Python toolkit for processing, classifying, clustering and visualising Copernicus EGMS InSAR ground motion datasets at regional to continental scale (tested up to 300M points, designed to scale to 5B).
