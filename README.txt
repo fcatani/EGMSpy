@@ -107,7 +107,8 @@ https://github.com/fcatani/EGMSpy/               ← all scripts live here
 Citation
 If you use EGMSpy or any component of it, please cite:
 
-1. Catani et al. (2026) "EGMSpy: an open-source Python toolkit for scalable data handling, classification, clustering, and visualisation of Copernicus EGMS InSAR data", EarthXiv, May 2026, DOI:10.31223/X55B59
+1. Catani et al. (2026) "EGMSpy: an open-source Python toolkit for scalable data handling, classification, clustering, and visualisation of Copernicus EGMS InSAR data", 
+EarthXiv, May 2026, DOI:10.31223/X55B59
 
 2. Copernicus EGMS data: https://egms.land.copernicus.eu/
 
