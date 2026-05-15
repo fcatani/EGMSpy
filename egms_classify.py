@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """
 EGMS Time Series Classifier  (v3 — revised class scheme)
+MIT License
+
+Copyright (c) 2026 Filippo Catani and MISS-Lab at UNIPD
 =========================================================
 Physics-informed feature extraction + hybrid rule/GMM classification
 of EGMS InSAR time series.
