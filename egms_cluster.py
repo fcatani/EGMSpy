@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """
 EGMS Spatial Cluster Detector  (v1)
+MIT License
+
+Copyright (c) 2026 Filippo Catani and MISS-Lab at UNIPD
 =====================================
 Finds spatially coherent clusters of deforming InSAR points using a
 velocity-weighted 3D DBSCAN algorithm, then:
