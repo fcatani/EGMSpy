@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """
 EGMS Bridge  (v1)
+MIT License
+
+Copyright (c) 2026 Filippo Catani and MISS-Lab at UNIPD
 ==================
 Flask + DuckDB server that connects the Parquet database to the HTML viewer.
 
