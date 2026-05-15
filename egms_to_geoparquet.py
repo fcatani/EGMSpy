@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """
 EGMS CSV to GeoParquet Converter  (v3)
+MIT License
+
+Copyright (c) 2026 Filippo Catani and MISS-Lab at UNIPD
 ========================================
 Converts EGMS InSAR CSV files (Copernicus Land Monitoring Service) into
 compact, split GeoParquet format.
