@@ -8,7 +8,7 @@ Copyright (c) 2026 Filippo Catani and MISS-Lab at UNIPD
 Downloads EGMS L2a/L2b CSV tiles from the Copernicus Land Monitoring Service
 for a user-defined bounding box in WGS84 (lat/lon).
 
-Requires EGMStoolkit installed in the same conda environment:
+Requires EGMStoolkit (Hrysiewicz et al., 2024) installed in the same conda environment:
     git clone https://github.com/alexisInSAR/EGMStoolkit.git
     Add to site-packages path (see installation notes)
 
